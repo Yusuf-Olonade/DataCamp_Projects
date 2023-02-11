@@ -1,4 +1,4 @@
-# My Completed DataCamp_Projects
+# My Completed DataCamp Projects
 
 This repository is used to document my completed projects from Datacamp.
 
