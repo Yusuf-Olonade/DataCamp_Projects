@@ -2,7 +2,7 @@
 
 This repository is used to document my completed projects from Datacamp.
 
-## Project_1: Investigating Netflix Movies
+## Project 1: Investigating Netflix Movies
 
 The goal of this project is to investigate the potential causes of the 
 decline in the average duration of Netflix movies over time as our friend 
